@@ -1,6 +1,7 @@
 # MicroPython ESP32 BLE
 
 This is Demo of BLE on ESP32 used for Communication with Android
+
 You need install Serial Bluetooth Terminal (from PS) or you can make your own apps :)
 
 Device:
