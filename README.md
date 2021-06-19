@@ -2,13 +2,15 @@
 
 MicroPython ESP32 BLE
 
-This is Demo of BLE on ESP32 used for Communication between Android
+This is Demo of BLE on ESP32 used for Communication with Android
 
-you need install Serial Bluetooth Terminal or you can make your own apps :)
+you need install Serial Bluetooth Terminal (from PS) or you can make your own apps :)
 
-Device ESP32 Wemos D1 Mini + HDC1080 Sensor
+Device:
+- Wemos ESP32 D1 Mini
+- HDC1080 Sensor
 
-MicroPython Firmware esp32-idf4-20210202-v1.14.bin (download here https://micropython.org/download/esp32/)
+MicroPython Firmware: esp32-idf4-20210202-v1.14.bin (download here https://micropython.org/download/esp32/)
 
 How to use:
 1. Copy main.py into your device
