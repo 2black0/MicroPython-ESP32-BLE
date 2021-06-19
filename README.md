@@ -16,5 +16,5 @@ How to use:
 1. Copy main.py into your device
 2. Restart your device
 3. Connect the Android with Bluetooth of ESP32 in Serial Bluetooth Terminal apps
-4. send 'red_led' in Serial Bluetooth Terminal for turning on / off the led in ESP32
-5. send 'read_temp' and 'read_hum' for read temperature and humidity sensor (HDC1080)
+4. send 'red_led' in Serial Bluetooth Terminal for turn on / off the led in ESP32
+5. send 'read_temp' and 'read_hum' for read temperature and humidity from HDC1080
