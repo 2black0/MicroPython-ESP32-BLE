@@ -19,6 +19,7 @@ Ideal for prototyping sensor-to-mobile IoT applications.
 
 - **Software**  
   - MicroPython Firmware: `esp32-idf4-20210202-v1.14.bin`  
+  - Library HDC1080: [hdc1080.py](https://github.com/mcauser/micropython-hdc1080)
   - Tool to upload files: [ampy](https://github.com/scientifichackers/ampy) or the built-in WebREPL  
   - Android: [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
 
